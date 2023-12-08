@@ -1,0 +1,48 @@
+{
+  "CategoryHash": {
+    "Blend": "e2e1c4f9",
+    "Position": "8ee3ef86",
+    "Texcoord": "9dce9289"
+  },
+  "Color": {
+    "rgb_a": "default",
+    "rgb_b": "default",
+    "rgb_g": "default",
+    "rgb_r": "default"
+  },
+  "MatchFirstIndex": [
+    "0",
+    "8580",
+    "58743"
+  ],
+  "PartNameList": [
+    "body_part0",
+    "body_part1",
+    "body_part2"
+  ],
+  "Preset": {
+    "DrawIB": "9a668fa1",
+    "FrameAnalyseFolder": "latest",
+    "GameType": "GF2Leg",
+    "LoaderFolder": "C:/Users/Administrator/Desktop/GFLoaderV1.0/",
+    "ModName": "xiuxishi-tui",
+    "OutputFolder": "C:/Users/Administrator/Desktop/GFLoaderV1.0/Mods/output/"
+  },
+  "SkipIBList": [],
+  "TangentAlgorithm": "",
+  "TextureDict": {
+    "diffuse.dds": "",
+    "light.dds": "",
+    "normal.dds": ""
+  },
+  "TmpElementList": [
+    "POSITION",
+    "NORMAL",
+    "TANGENT",
+    "COLOR",
+    "TEXCOORD",
+    "BLENDWEIGHTS",
+    "BLENDINDICES"
+  ],
+  "VertexLimitVB": "d4779d92"
+}
